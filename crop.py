@@ -1,5 +1,5 @@
-# Copyright (2024) William Johnson <dev.williamj@outlook.com>
-
+# Copyright (2024) William Johnson
+# <dev.williamj@outlook.com>
 import sys
 import os
 import cv2 as cv
