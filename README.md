@@ -5,5 +5,5 @@ Quickly resizes images in a directory. It will overwrite the existing image bina
 ## Command Line Form
 
 ```
-python copy.py D:\imagery 200 100
+python crop.py D:\imagery 200 100
 ```
