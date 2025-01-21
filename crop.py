@@ -1,3 +1,4 @@
+# Copyright (2024) William Johnson <dev.williamj@outlook.com>
 
 import sys
 import os
@@ -40,4 +41,4 @@ for sd, d, fl in os.walk(p):
         except Exception as e:
             print(f"An error occurred: {e}")
             pass
-print(f"{(t2/t1)*100}% images successfully processed")
+print(f"{(t2/t1)*100.0}% images successfully processed")
