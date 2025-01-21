@@ -1,1 +1,1 @@
-Copyright William Johnson <dev.williamj@outlook.com>
+Copyright William J. <dev.williamj@outlook.com>

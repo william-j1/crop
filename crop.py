@@ -1,4 +1,4 @@
-# Copyright (2024) William Johnson
+# Copyright (2024) William J.
 # <dev.williamj@outlook.com>
 import sys
 import os
