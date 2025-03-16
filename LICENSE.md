@@ -1,1 +1,1 @@
-Copyright William J. <dev.williamj@outlook.com>
+Copyright William J. <williamj.inbox@gmail.com>
