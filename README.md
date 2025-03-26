@@ -5,12 +5,13 @@ Quickly resizes images in a directory. It will overwrite the existing image bina
 ## Command Line Form
 
 ```
-python crop.py D:\imagery W H
+python crop.py PATH W H
 ```
 
 # Parameters
 
-| Parameter | Purpose  |
-|:---------:|----------|
-| W         | width    |
-| H         | height   |
+| Parameter | Purpose     |
+|:---------:|-------------|
+| W         | width       |
+| H         | height      |
+| PATH      | entry point |
