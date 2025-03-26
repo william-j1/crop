@@ -1,5 +1,3 @@
-# Copyright (2024) William J.
-# <williamj.inbox@gmail.com>
 import sys
 import os
 import cv2 as cv
